@@ -1,0 +1,38 @@
+_repo: The-Plague_30062
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, John (John Carl)
+    - Schoenherr, Jack
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keller, Teddy
+    gutenberg_agent_id: '34342'
+    url: http://www.gutenberg.org/2009/agents/34342
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Epidemics -- Fiction'
+- !lcsh 'Short stories'
+title: The Plague
+url: http://www.gutenberg.org/ebooks/30062
