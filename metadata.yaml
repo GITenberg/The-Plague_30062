@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '34342'
     url: http://www.gutenberg.org/2009/agents/34342
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30062#The-Plague
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-22'
 gutenberg_type: Text
